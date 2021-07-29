@@ -1,0 +1,35 @@
+body {
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    background-color: #F4F0FD;
+    font-family: 'Oswald', 'Noto Sans JP', sans-serif;
+}
+
+.rino{
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-size: 4.35cm;
+}
+   
+  @media only screen and (min-width:651px) {
+    h1 {
+      font-size: 24px;
+    }
+    h2 {
+      font-size: 20px;
+    }
+    p {
+      font-size: 16px;
+    }
+  }
+   
+  @media only screen and (min-width:961px) {
+    h1 {
+      font-size: 26px;
+    }
+    h2 {
+      font-size: 22px;
+    }
+    p {
+      font-size: 17px;
+    }
+  }
